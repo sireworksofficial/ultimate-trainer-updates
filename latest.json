@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "product": "UltimateTrainer.1",
+  "version": "2.2.1",
+  "installerUrl": "https://github.com/sireworksofficial/ultimate-trainer-updates/releases/download/v2.2.1/UltimateTrainer-Setup-2.2.1.exe",
+  "size": 201798774,
+  "sha256": "97d77f603af54885d4205e65a00e06692405602e97d27d1c8f98d24a66eadb4e",
+  "notes": [
+    {
+      "title": "Live updates are connected",
+      "body": "Ultimate Trainer now checks its hosted release feed automatically. No hosting setup or update address is needed."
+    },
+    {
+      "title": "Install when you are ready",
+      "body": "Review the changelog, approve the update, and the trainer downloads, verifies, installs and restarts in place."
+    },
+    {
+      "title": "Your cockpit stays yours",
+      "body": "Your themes, sounds and preferences carry over. The animated changelog shows what changed after the update."
+    },
+    {
+      "title": "Older blank settings repaired",
+      "body": "Previously empty update settings now adopt the built-in live feed. Custom update addresses remain saved."
+    }
+  ]
+}
