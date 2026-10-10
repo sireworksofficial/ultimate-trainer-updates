@@ -1,19 +1,13 @@
 # Ultimate Trainer for BeamNG.drive
 
-Windows installers and the live update feed for Ultimate Trainer.
+Latest release: [Ultimate Trainer 2.3.0 — Ultimate Physics Manipulator](https://github.com/sireworksofficial/ultimate-trainer-updates/releases/tag/v2.3.0).
 
-[Download the latest Windows installer](https://github.com/sireworksofficial/ultimate-trainer-updates/releases/latest)
+A Windows trainer with Speed Changer, BeamNG Vehicle Customs, and the embedded Ultimate Physics Manipulator: 32 live controls, six impulse axes, 12 presets, session restoration and animated studio navigation. Physics controls use supported runtime world/vehicle APIs and added force experiments; they do not expose every engine parameter. Initial bridge upgrades require one BeamNG restart if it was already open.
 
-## Automatic updates
+Existing installed copies: Settings → Check for updates → Install & restart. Updates preserve preferences and show release notes afterward.
 
-The trainer checks this stable HTTPS feed automatically:
+Stable HTTPS update feed: https://raw.githubusercontent.com/sireworksofficial/ultimate-trainer-updates/main/latest.json
 
-https://raw.githubusercontent.com/sireworksofficial/ultimate-trainer-updates/main/latest.json
+This repository contains release installers and update metadata. It contains no BeamNG vehicle assets or application source. Downloads are checked for size and SHA-256. Upload each installer before changing the feed.
 
-Updates ask before installation, verify the downloaded installer size and SHA-256 hash, upgrade the existing installation, preserve settings, and restart with an animated changelog.
-
-Versions 2.1.0 and 2.2.0 can use the same address in Settings. Version 2.2.1 includes the feed and adopts it automatically when older update settings are blank. Portable copies need a Setup installation to use in-place updates.
-
-Future releases upload the versioned installer before updating latest.json. This distribution repository contains release binaries and public metadata. The application source is maintained separately.
-
-Independently developed for BeamNG.drive. Windows x64. The current installer is unsigned.
+Independently developed application. Current installers are unsigned.
